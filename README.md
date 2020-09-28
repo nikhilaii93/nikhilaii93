@@ -1,6 +1,9 @@
 ### Hi there 👋
-I'm a Software Engineer by profession and passion. An enthusiast of cloud technologies of distributed & data driven systems.
-
-![](https://komarev.com/ghpvc/?username=nikhilaii93)
-
+My current project where most of my time goes:
 Visit my blog at: [codercoast](www.codercoast.com) :ocean:
+
+Some technical blogs that I follow:
+...
+
+Book recommendations
+...
